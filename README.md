@@ -66,3 +66,13 @@ Here is a list of some commonly used Flutter commands:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### How to use this Boilerplate or template?
+- First remove git logs from this repo
+```html
+rm -rf .git
+```
+- Then removed the codes which you don't want from main.dart.
+- Then you can push your changes to your github repo and so on.
+
+### THANK YOU FOR USING THIS TEMPLATE AND KEEP ON LEARNING ❤️❤️❤️
